@@ -1,1 +1,2 @@
-# computer-vision-eye-an-face
+# computer-vision-eye-and-face face detector
+
